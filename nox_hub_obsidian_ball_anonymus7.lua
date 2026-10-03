@@ -58,7 +58,7 @@ LoadDev.BackgroundTransparency = 1
 LoadDev.Position = UDim2.new(0, 0, 0, 42)
 LoadDev.Size = UDim2.new(1, 0, 0, 18)
 LoadDev.Font = Enum.Font.GothamMedium
-LoadDev.Text = "ANONYMUS"
+LoadDev.Text = "Obsidian UI"
 LoadDev.TextColor3 = Color3.fromRGB(120, 120, 140)
 LoadDev.TextSize = 12
 
@@ -68,8 +68,7 @@ LoadWarn.BackgroundTransparency = 1
 LoadWarn.Position = UDim2.new(0, 15, 0, 68)
 LoadWarn.Size = UDim2.new(1, -30, 0, 85)
 LoadWarn.Font = Enum.Font.Gotham
-LoadWarn.Text = "Esse script é único e totalmente original. Anonymus hub quem disfarça e b
-Barbeiro."
+LoadWarn.Text = "Esse script é único e totalmente original!\nAdquira somente com o usuário: 7zhc (Não compre de ninguém).\n\n⚠️ 67 HUB e Dio Brando HUB são cópias que não sabem fazer seu trabalho sozinho."
 LoadWarn.TextColor3 = Color3.fromRGB(240, 80, 80)
 LoadWarn.TextSize = 10
 LoadWarn.TextWrapped = true
