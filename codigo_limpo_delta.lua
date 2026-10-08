@@ -1,3 +1,4 @@
+local player
 local CollectionService, ProximityPromptService, v6, v7, tbl7, tbl8, tbl9
 do
 fn = function(arg)
